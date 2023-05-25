@@ -50,3 +50,4 @@ git status
 git diff --staged HEAD
 git log --oneline
 git status
+cat convert_temperature.py 
