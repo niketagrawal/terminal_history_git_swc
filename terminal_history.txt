@@ -24,3 +24,4 @@ git commit -m "docstring for source code doucmentation"
 git log 
 git log --oneline
 nano convert_temperature.py
+cat convert_temperature.py 
