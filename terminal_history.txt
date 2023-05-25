@@ -53,3 +53,4 @@ git status
 cat convert_temperature.py 
 git commit -m "revert accidental omission of multiplication sign"
 git log --oneline
+cat convert_temperature.py 
