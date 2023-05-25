@@ -25,3 +25,28 @@ git log
 git log --oneline
 nano convert_temperature.py
 cat convert_temperature.py 
+git status
+git restore convert_temperature.py
+git status
+cat convert_temperature.py 
+nano convert_temperature.py 
+git status
+git add convert_temperature.py 
+git status
+git restore --staged convert_temperature.py
+git status
+git diff
+git add convert_temperature.py 
+git status
+git commit -m "calculation updated as per latest reference"
+git log --oneline
+git show
+git status
+git log --oneline
+git show HEAD~1
+git checkout HEAD~1 convert_temperature.py
+git log --oneline
+git status
+git diff --staged HEAD
+git log --oneline
+git status
