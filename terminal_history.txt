@@ -51,3 +51,5 @@ git diff --staged HEAD
 git log --oneline
 git status
 cat convert_temperature.py 
+git commit -m "revert accidental omission of multiplication sign"
+git log --oneline
