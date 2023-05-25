@@ -1,2 +1,26 @@
 ls -lrt
 ls -l
+ls -a .git/
+clear
+git status
+git log
+git show HEAD
+git show HEAD~1
+git log
+git show c7a43844
+git show HEAD~2
+nano convert_temperature.py
+git status
+git diff 
+git diff HEAD~1
+git diff HEAD~1
+git add convert_temperature.py
+git status
+git diff
+git diff --staged
+git diff --staged HEAD~2
+git status
+git commit -m "docstring for source code doucmentation"
+git log 
+git log --oneline
+nano convert_temperature.py
